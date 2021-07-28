@@ -21,6 +21,7 @@ class Solution {
         	}
         	
         	
+        	
         	total_wait += pt.size();
         		
         	if(total_task != jobs.length) {
