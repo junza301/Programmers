@@ -38,6 +38,7 @@ class Solution {
         for(int i = 0; i < jobs.length; i++) {
         	total_wait += jobs[i][1];
         }
+        
          
         return (int)(total_wait / jobs.length);
     }
