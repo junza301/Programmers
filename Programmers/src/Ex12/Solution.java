@@ -20,7 +20,6 @@ class Solution {
         			processed_task++;
         	}
         	
-        	
         	total_wait += pt.size();
         		
         	if(total_task != jobs.length) {
